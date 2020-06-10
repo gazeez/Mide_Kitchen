@@ -13,7 +13,7 @@ Customers will be able to sign up,  order and leave a review
 
 Work Breakdown Structure: can be seen on Trello - https://trello.com/b/BFWKYTnc/capstone-mide-cooks
 
-To Run the Website via:
+# To Run the Website via:
 
 1. Download xampp app on your computer
 2. Run the program
