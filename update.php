@@ -15,6 +15,7 @@ if (isset($_SESSION['user']))
                  $uaddress=$profidybbr['address'];
                  $uphone=$profidybbr['phone'];
                  }
+
 }
 else
 {
@@ -36,10 +37,7 @@ $gphone=$_POST['phone'];
 
     header("location:updated.php");
 
-
 	}
-
-
 
 ?>
 <!DOCTYPE html>
