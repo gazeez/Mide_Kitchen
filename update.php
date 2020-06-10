@@ -1,4 +1,4 @@
-<?php
+g<?php
 ob_start();
 require("connect.php");
 
@@ -18,7 +18,7 @@ if (isset($_SESSION['user']))
 }
 else
 {
-  header("location:index.php");
+       header("location:index.php");
 }
 
 
