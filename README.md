@@ -31,6 +31,7 @@ Customers will be able to sign up,  order and leave a review
       - This should bring you to the website.
 
 # Testing Instructions and Test Cases
+
 # Test Register
   - Check if missing a form will let you register
   - Check if email is not in its proper form will let you register
