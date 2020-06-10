@@ -1,5 +1,5 @@
-                                          # Capstone Final Project with TechCareers (U of A / ManPower)
-                                                     # Contributor - Gafar Azeez
+                                  # Capstone Final Project with TechCareers (U of A / ManPower)
+                                                 # Contributor - Gafar Azeez
 # Mide_Kitchen
 
 # Problem Statement:
