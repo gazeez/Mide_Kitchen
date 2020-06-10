@@ -1,6 +1,6 @@
-                                  # Capstone Final Project with TechCareers (U of A / ManPower)
+                                  # Capstone Final Project with TechCareers (U of A / ManPower) 
                                                  # Contributor - Gafar Azeez
-# Mide_Kitchen
+# Mide_Kitchen (fictitious site)
 
 # Problem Statement:
 Mide is a chef - she receives orders and prices are negotiated. She is tired of negotiating, just wants to cook
@@ -16,7 +16,7 @@ Customers will be able to sign up,  order and leave a review
 
  can be seen on Trello - https://trello.com/b/BFWKYTnc/capstone-mide-cooks
 
-# To Run the Website:
+# To Run the Website (Installing Application):
 
 1. Download xampp app on your computer
 2. Run the program
@@ -30,6 +30,12 @@ Customers will be able to sign up,  order and leave a review
 10. Open a tab in a browser and type http://localhost/named_folder_from_step 7
       - This should bring you to the website.
 
+# Using Application:
+  - Regular Browsing of pages
+  - Navigation bar at the top links to each section of the page of interest
+  - Log In/Log Out at the top right.
+  - Information of the Site address and social media links in the footer
+  
 # Testing Instructions and Test Cases
 
 # Test Register
