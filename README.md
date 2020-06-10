@@ -1,6 +1,6 @@
-                                                            # Mide_Kitchen
                                           # Capstone Final Project with TechCareers (U of A / ManPower)
                                                      # Contributor - Gafar Azeez
+# Mide_Kitchen
 
 # Problem Statement:
 Mide is a chef - she receives orders and prices are negotiated. She is tired of negotiating, just wants to cook
@@ -10,9 +10,9 @@ She would love to create a template menu where customers can go to, view menu an
 I will create a website template with menu, order, review and contact us sections. 
 Customers will be able to sign up,  order and leave a review
 
-******Note: Customers will have to sign up to make a order.********
+**Note: Customers will have to sign up to make a order.**
 
-**Work Breakdown Structure: 
+**Work Breakdown Structure:**
 
  can be seen on Trello - https://trello.com/b/BFWKYTnc/capstone-mide-cooks
 
