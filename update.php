@@ -1,4 +1,4 @@
-g<?php
+<?php
 ob_start();
 require("connect.php");
 
@@ -15,11 +15,10 @@ if (isset($_SESSION['user']))
                  $uaddress=$profidybbr['address'];
                  $uphone=$profidybbr['phone'];
                  }
-
 }
 else
 {
-       header("location:index.php");
+  header("location:index.php");
 }
 
 
@@ -37,7 +36,10 @@ $gphone=$_POST['phone'];
 
     header("location:updated.php");
 
+
 	}
+
+
 
 ?>
 <!DOCTYPE html>
@@ -150,6 +152,7 @@ $gphone=$_POST['phone'];
 
 
                                    <button type="submit" class="form-control" id="cf-submit" name="submit">UPDATE</button>
+                                   <a href="delete.php"><strong>DELETE PROFILE</strong></button>
                               </div>
                          </form>
                     </div>
