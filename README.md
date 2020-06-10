@@ -1,6 +1,6 @@
-# Mide_Kitchen
-# Capstone Final Project with TechCareers (ManPower)
-# Contributor - Gafar Azeez
+                                                            # Mide_Kitchen
+                                          # Capstone Final Project with TechCareers (U of A / ManPower)
+                                                     # Contributor - Gafar Azeez
 
 # Problem Statement:
 Mide is a chef - she receives orders and prices are negotiated. She is tired of negotiating, just wants to cook
